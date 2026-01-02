@@ -1,9 +1,9 @@
 {
-  "name": "Fabula Ultima DM Screen React",
+  "name": "Fabula Ultima Cheat Sheet",
   "version": "1.0.0",
   "manifest_version": 1,
   "action": {
-    "title": "Fabula Ultima DM Screen",
+    "title": "Fabula Ultima Cheat Sheet",
     "icon": "/icon.svg",
     "popover": "/",
     "height": 800,
