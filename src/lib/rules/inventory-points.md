@@ -1,0 +1,2 @@
+### RECHARGING INVENTORY POINTS
+Characters can recharge their Inventory Points when they are in a town, village, or other locations that allow them to purchase useful gear: the cost is **10 zenit for every Inventory Point they want to recharge**.

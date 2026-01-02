@@ -1,0 +1,12 @@
+{
+  "name": "Fabula Ultima DM Screen React",
+  "version": "1.0.0",
+  "manifest_version": 1,
+  "action": {
+    "title": "Fabula Ultima DM Screen",
+    "icon": "/icon.svg",
+    "popover": "/",
+    "height": 800,
+    "width": 900
+  }
+}
